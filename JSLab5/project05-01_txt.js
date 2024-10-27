@@ -4,7 +4,7 @@
       Project 05-01
 
       Project to present an online quiz with a countdown clock
-      Author: Adrienne Boyland
+      Author: Adrienne 
       Date: 10/29/2023  
 
       Filename: project05-01.js
